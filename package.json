@@ -2,7 +2,7 @@
   "name": "react-website-smooth-scroll",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ChristopherCruz21.github.io/React-Styled-Components",
+  "homepage": "http://ChristopherCruz21.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
