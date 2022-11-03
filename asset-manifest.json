@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Styled-Components/static/css/main.d7da34c1.css",
+    "main.js": "/React-Styled-Components/static/js/main.5c02a4ad.js",
+    "static/js/787.84e24b10.chunk.js": "/React-Styled-Components/static/js/787.84e24b10.chunk.js",
+    "static/media/video.mp4": "/React-Styled-Components/static/media/video.7d1ea6a94986d5c2a068.mp4",
+    "static/media/reduceExpenses.svg": "/React-Styled-Components/static/media/reduceExpenses.902b5d4f08d2a4d7987590caab2039ce.svg",
+    "static/media/team.svg": "/React-Styled-Components/static/media/team.39821d48dac0985420cba20f44e6121c.svg",
+    "static/media/premiumBenefits.svg": "/React-Styled-Components/static/media/premiumBenefits.33b6166f1823985fe5b92d7902847c58.svg",
+    "static/media/virtualOffices.svg": "/React-Styled-Components/static/media/virtualOffices.63d59c15fe5a1bf263793fdee887e941.svg",
+    "index.html": "/React-Styled-Components/index.html",
+    "main.d7da34c1.css.map": "/React-Styled-Components/static/css/main.d7da34c1.css.map",
+    "main.5c02a4ad.js.map": "/React-Styled-Components/static/js/main.5c02a4ad.js.map",
+    "787.84e24b10.chunk.js.map": "/React-Styled-Components/static/js/787.84e24b10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.5c02a4ad.js"
+  ]
+}
